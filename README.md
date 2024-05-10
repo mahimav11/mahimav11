@@ -1,5 +1,5 @@
--aunty ji namasteeeee
--   👋 Hi, I’m @mahimav11
+-hello tech wizards
+-   👋 Hi, I’m @quantum_quill_mahi11
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on web development
