@@ -1,3 +1,8 @@
+//creating bank management system  
+//concepts used: 1.cpp class 2.array of object
+
+//author:Vahadne M.M.(BS-3:127)
+
 #include<iostream>
 #include <string>
 using namespace std;
