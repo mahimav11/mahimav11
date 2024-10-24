@@ -1,8 +1,8 @@
 -hello tech wizards
--   👋 Hi, I’m @quantum_quill_mahi11
+-   👋 Hi, I’m @quantum_quill_1611
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on web development
+- 💞️ I’m looking to collaborate on data structures and algorithms
 - 📫 How to reach me mahimavahadne11@gmail.com
 
 <!---
