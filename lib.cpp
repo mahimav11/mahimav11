@@ -1,3 +1,7 @@
+//Book Inventory Management System
+//concepts: 1.construtor 2.mem allocation using new operator
+//author:Vahadne M.M.(BS-3:127)
+
 #include <iostream>
 #include <string>
 using namespace std;
@@ -10,6 +14,13 @@ class books
         string publisher;
         
      public:
+       books()
+        {
+            string *author=new string;
+            string *name=new string;            
+            int *price=new int;
+            int *stock=new int;
+        }
         void details(int x)
         {
             cout<<"BOOK "<<x+1<<"\n\n";
