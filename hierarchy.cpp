@@ -1,3 +1,7 @@
+//hospital management sytem 
+//concepts:1.multipath inheritance 2.virtual base class 3.reusability
+//author:Vahadne M.M.(BS-3:127)
+
 #include<iostream>
 #include<string>
 using namespace std;
