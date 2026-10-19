@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/mahima-vahadne"><img src="https://img.shields.io/badge/LinkedIn-mahima--vahadne-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://github.com/mahimav11"><img src="https://img.shields.io/github/followers/mahimav11?label=Followers&style=for-the-badge&logo=github&color=0b1d2e" alt="GitHub followers"/></a>
-<img src="https://komarev.com/ghpvc/?username=mahimav11&label=Profile%20views&style=for-the-badge&color=1f6f8b" alt="Profile views"/>
 
 </div>
 
@@ -240,10 +239,10 @@ Deployed and customised an open-source agriculture platform: crop and fertiliser
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahimav11&show_icons=true&hide_border=true&count_private=true&title_color=1f6f8b&icon_color=1f6f8b" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimav11&layout=compact&hide_border=true&title_color=1f6f8b" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahimav11&show_icons=true&hide_border=true&hide_rank=true&custom_title=Mahima%20Vahadne%27s%20GitHub%20Stats&title_color=1f6f8b&icon_color=1f6f8b" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahimav11&layout=compact&hide_border=true&hide=jupyter%20notebook,html,ejs&langs_count=6&title_color=1f6f8b" alt="Top languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mahimav11&hide_border=true&color=1f6f8b&line=1f6f8b&point=0b1d2e&area=true&area_color=1f6f8b" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/1f6f8b/mahimav11" width="100%" alt="Contribution heatmap"/>
 
 </div>
 
